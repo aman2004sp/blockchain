@@ -36,12 +36,14 @@ Your metamask account should look something like this after mining the GoreliETH
 
 6. View your token name and address in dashboard
 
-![Screenshot from 2023-06-11 17-20-21](https://github.com/Mayank230604/Blockchain/assets/120153596/1b540568-1aaa-4aed-af0a-9b9a5ce85358)
+![5](https://github.com/aman2004sp/blockchain/assets/119393298/fdc7fd4d-0ab4-42c5-857b-d37e2dc2f053)
 
- I named my token as "MyToken" and kept its symbol as "FOOL"
+
+ I named my token as "MyToken" and kept its symbol as "AMAN"
 
  
 
  ## To see the transaction history of the token go to https://goerli.etherscan.io/ and paste your token address from 20 lab
+![etherscan](https://github.com/aman2004sp/blockchain/assets/119393298/96822906-3618-4e97-98e0-cbe6dce9df1a)
 
-![Screenshot from 2023-06-11 20-08-44](https://github.com/Mayank230604/Blockchain/assets/120153596/60336720-cdf1-4bae-8783-2c372c177bb6)
+
