@@ -20,15 +20,15 @@ To deploy Hyperledger Fabric using Docker on Ubuntu, you'll need to follow a ser
 
 It is always a smart idea not to use root to install these softwares. Let us create a new user.
 
-    sudo adduser kakarot
+    sudo adduser aman
 
 Now we need to add our user to the sudo group.
 
-    sudo usermod -aG sudo kakarot
+    sudo usermod -aG sudo aman
 
 Switch to our newly created user:
 
-    su - kakarot
+    su - aman
 
 ## Step 2: Install Prerequisites Install Git, cURL, docker, docker-compose, Node.js , NPM & Pythonsudo 
 
@@ -74,17 +74,17 @@ Switch to our newly created user:
 
     export GOROOT=/usr/local/go 
 
-    export GOPATH= /home/kakarot/go 
+    export GOPATH= /home/aman/go 
 
     export PATH=$PATH:$GOROOT/bin 
 
-    #replace kakarot with your newly created user
+    #replace aman with your newly created user
 
 ### Log out and Log back as a new user
 
     exit 
 
-    su - kakarot
+    su - aman
 
 ## Step 3: Install Hyperledger Fabric Binaries, Docker Containers & Samples
 
@@ -137,4 +137,3 @@ You should get something like below at the end of execution if everything went r
     
 
 Congratulations! You have successfully installed Hyperledger Fabric in your machine.
-
