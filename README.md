@@ -3,6 +3,8 @@ this repository contains all my work related to blockchain# Deployment of ERC-20
 
 #to see how to deploy hyperledger fabric with help of docker click on link below:
 https://github.com/aman2004sp/blockchain/blob/main/hyperledger_fabric.md
+#to see my work on history of blockchain and some theoritical concepts of blockchain.(blockchain basic) click the link below:
+https://github.com/aman2004sp/blockchain/blob/main/Blockchain.pptx
 
 ## Account info:
 https://github.com/aman2004sp/blockchain/blob/main/account%20info
